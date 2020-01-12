@@ -8,10 +8,10 @@ Se debe obtener un grafo G={v,e} y hallar el problema de la cobertura de vértic
 
 El programa leerá un fichero txt con la siguiente estructura:
 
-'''
+```
 2
 u1 !u1 u2
 u2 !u2 u1
-'''
+```
 
 Con el primer número creará los literales llamadonlos en este ejemplo (u1L, -u1L. u2L, -u2L) y posteriormente crearás las clausulas de 3 Sat con las siguientes lineas
